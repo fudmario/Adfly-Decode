@@ -2,7 +2,11 @@
 
 ### Adf.ly Decode Function
 
-
+#### Imports:
+```` vbnet
+Imports System.Net
+Imports System.Text
+````
 #### Example:
 
 ```` vbnet
